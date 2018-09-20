@@ -1,0 +1,13 @@
+
+.button-style{  
+    background-color: #eee;  
+    border-radius: 8rpx;  
+    margin: 20rpx;  
+}
+.bottom-bar {
+  bottom: 0;
+  position: fixed;
+  height: 100px;
+  width: 100%;
+  background-color: #ffc636;
+}
